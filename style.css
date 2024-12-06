@@ -244,6 +244,7 @@ footer {
   font-weight: 600;
   line-height: 24px;
   margin-bottom: 12px;
+  cursor: pointer;
 }
 .pharaghrap_head {
   color: #D6BBFB;
