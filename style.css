@@ -81,6 +81,7 @@ footer {
   color: #323232;
   font-family: Inter;
   font-size: 18px;
+  text-decoration: none;
 }
 .contact_us {
   padding: 8px 16px;
